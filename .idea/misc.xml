@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="CidrRootsConfiguration">
+    <sourceRoots>
+      <file path="$PROJECT_DIR$/OpenNN-master/eigen" />
+      <file path="$PROJECT_DIR$/OpenNN-master/opennn" />
+      <file path="$PROJECT_DIR$/OpenNN-master/tinyxml2" />
+    </sourceRoots>
+  </component>
+</project>
